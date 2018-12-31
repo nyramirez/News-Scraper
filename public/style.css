@@ -1,0 +1,23 @@
+.background-image {
+    background-image: url("./images/read-coffee-white-photography-flower-reading-722779-pxhere.com.jpg");
+    z-index: -1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50vh;
+    width: 95vw;
+}
+
+.caption {
+    padding-top: 6vh;
+    padding-left: 55vw;
+    color: black;
+
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    height: 4vh;
+    width: 100%;
+}
